@@ -1,0 +1,606 @@
+.index-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 90rem;
+  height: 2.81rem;
+}
+.index-item {
+  position: absolute;
+  top: 2.38rem;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 0.06rem;
+  height: 0.44rem;
+}
+.index-inner {
+  position: absolute;
+  top: 2.88rem;
+  left: 0;
+  width: 90rem;
+  height: 29.13rem;
+}
+.d-circle-icon,
+.d-circle-icon1 {
+  width: 10.79rem;
+  height: 10.79rem;
+  overflow: hidden;
+}
+.d-circle-icon {
+  position: absolute;
+  top: 6.88rem;
+  right: 6.08rem;
+  object-fit: cover;
+}
+.d-circle-icon1 {
+  top: 16.81rem;
+  right: 22.89rem;
+}
+.d-circle-icon1,
+.d-circle-icon2,
+.image-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.d-circle-icon2 {
+  top: 10.38rem;
+  right: 29.19rem;
+  width: 3.31rem;
+  height: 3.31rem;
+  overflow: hidden;
+}
+.image-1-icon {
+  top: 2.88rem;
+  left: 60.81rem;
+  width: 27.19rem;
+  height: 29.13rem;
+}
+.about-us,
+.home,
+.senwada-ph {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.senwada-ph {
+  top: 0.13rem;
+  left: 2rem;
+  font-size: 0.69rem;
+  color: var(--color-black);
+  text-align: left;
+  width: 13.81rem;
+  height: 2.56rem;
+}
+.about-us,
+.home {
+  top: 0;
+  left: 31.56rem;
+  justify-content: center;
+  width: 5.69rem;
+  height: 2.69rem;
+}
+.about-us {
+  left: 37.25rem;
+}
+.services {
+  top: 0.06rem;
+  left: 48.63rem;
+}
+.cart,
+.products,
+.services {
+  position: absolute;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5.69rem;
+  height: 2.69rem;
+}
+.cart {
+  top: 0;
+  left: 54.31rem;
+}
+.products {
+  top: 0.06rem;
+  left: 42.94rem;
+}
+.rectangle-icon,
+.senwada-is-for {
+  position: absolute;
+  top: 1.43rem;
+  left: 47.06rem;
+  width: 0.28rem;
+  height: 0.14rem;
+}
+.senwada-is-for {
+  top: 0.94rem;
+  left: 0.69rem;
+  line-height: 2.5rem;
+  display: flex;
+  align-items: center;
+  width: 17.25rem;
+  height: 7.88rem;
+}
+.senwada-is-for-filipino-anime-wrapper {
+  position: absolute;
+  top: 6.56rem;
+  left: 6.38rem;
+  width: 22.06rem;
+  height: 10.88rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2.22rem;
+  color: var(--color-darkslategray);
+  font-family: var(--font-arvo);
+}
+.senwada-started-at {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  line-height: 1.11rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 15.5rem;
+  height: 4.56rem;
+}
+.senwada-started-at-november-3-wrapper {
+  position: absolute;
+  top: 16.19rem;
+  left: 6.38rem;
+  width: 17.44rem;
+  height: 6rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.69rem;
+}
+.frame-child {
+  position: absolute;
+  top: 0.63rem;
+  left: 0.44rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkseagreen);
+  width: 9.75rem;
+  height: 2.44rem;
+}
+.shop-now {
+  position: absolute;
+  top: 0.88rem;
+  left: 2.94rem;
+  line-height: 1.11rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 5.63rem;
+  height: 1.94rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 23.31rem;
+  left: 7.19rem;
+  width: 10.19rem;
+  height: 3.06rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.69rem;
+  color: var(--color-black);
+}
+.index-child1,
+.rectangle-div {
+  position: absolute;
+  top: 0.63rem;
+  border-radius: var(--br-xl);
+  width: 4.63rem;
+  height: 1.56rem;
+}
+.rectangle-div {
+  left: 77.75rem;
+  background-color: #3ebfd0;
+}
+.index-child1 {
+  left: 83.06rem;
+  background-color: var(--color-darkseagreen);
+}
+.login,
+.register {
+  position: absolute;
+  top: 1rem;
+  left: 78.5rem;
+  font-weight: 600;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.19rem;
+  height: 0.75rem;
+}
+.login {
+  top: 1.13rem;
+  left: 83.63rem;
+  width: 3.25rem;
+  height: 0.63rem;
+}
+.woman-delivers-an-order {
+  position: relative;
+  width: 4.44rem;
+  height: 3.63rem;
+  object-fit: cover;
+}
+.free-delivery,
+.lorem-ipsum-dolor {
+  align-self: stretch;
+  position: relative;
+  flex-shrink: 0;
+}
+.free-delivery {
+  line-height: 1.04rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.04rem;
+}
+.lorem-ipsum-dolor {
+  font-size: 0.56rem;
+  line-height: 0.83rem;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  display: inline-block;
+  height: 3.33rem;
+}
+.free-delivery-parent,
+.woman-delivers-an-order-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.28rem;
+}
+.woman-delivers-an-order-parent {
+  flex: 1;
+  border-radius: 6.66px;
+  background: linear-gradient(33.54deg, #f1f2f3, rgba(241, 242, 243, 0.5));
+  backdrop-filter: blur(6.66px);
+  align-items: center;
+  padding: 2.22rem 1.11rem;
+  gap: 0.83rem;
+}
+.young-man-delivering-several-b {
+  position: relative;
+  width: 7.63rem;
+  height: 3.44rem;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 0.56rem;
+  line-height: 0.83rem;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  height: 3.33rem;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor1,
+.more-infos,
+.more-infos-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.more-infos {
+  position: relative;
+  font-weight: 600;
+  width: 2.88rem;
+  height: 0.56rem;
+  flex-shrink: 0;
+}
+.more-infos-wrapper {
+  border-radius: 55.54px;
+  background-color: #bcdcc4;
+  height: 1.39rem;
+  flex-direction: row;
+  padding: 0 0.69rem;
+  box-sizing: border-box;
+  font-size: 0.56rem;
+}
+.investing-money-online-parent,
+.young-man-delivering-several-b-parent {
+  flex: 1;
+  border-radius: 6.66px;
+  backdrop-filter: blur(6.66px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2.22rem 1.11rem;
+  gap: 0.83rem;
+}
+.young-man-delivering-several-b-parent {
+  background-color: var(--color-white);
+  box-shadow: 0 13.3px 26.66px rgba(21, 21, 21, 0.08),
+    0 6.7px 13.33px rgba(21, 21, 21, 0.06);
+}
+.investing-money-online-parent {
+  background: linear-gradient(33.54deg, #f1f2f3, rgba(241, 242, 243, 0.5));
+}
+.frame-parent {
+  position: absolute;
+  top: 35.13rem;
+  left: 6.38rem;
+  width: 76rem;
+  height: 12.13rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.11rem;
+  font-size: 0.69rem;
+  color: var(--color-gray-100);
+}
+.push-2-columns-child {
+  flex: 1;
+  position: relative;
+  height: 23.29rem;
+  overflow: hidden;
+  z-index: 0;
+}
+.buy {
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 1.36rem;
+  height: 0.69rem;
+  flex-shrink: 0;
+}
+.buy-wrapper,
+.frame-item,
+.frame-wrapper {
+  border-radius: 55.54px;
+  box-sizing: border-box;
+}
+.buy-wrapper {
+  background-color: var(--color-darkslategray);
+  height: 2.22rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1.39rem;
+}
+.frame-item,
+.frame-wrapper {
+  width: 1.67rem;
+  height: 1.67rem;
+}
+.frame-item {
+  position: absolute;
+  top: 1.67rem;
+  left: 0;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.25),
+      rgba(255, 255, 255, 0)
+    ),
+    #f0f0f0;
+  border: 3.3px solid var(--color-white);
+}
+.frame-wrapper {
+  position: relative;
+  border: 1.1px solid var(--color-darkslategray);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-inner {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.25),
+      rgba(255, 255, 255, 0)
+    ),
+    #919191;
+}
+.frame-child1,
+.frame-child2,
+.frame-inner {
+  border-radius: 55.54px;
+  width: 1.11rem;
+  height: 1.11rem;
+}
+.frame-child1 {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.25),
+      rgba(255, 255, 255, 0)
+    ),
+    #2b2b2b;
+}
+.frame-child2 {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.25),
+      rgba(255, 255, 255, 0)
+    ),
+    #bcdcc4;
+}
+.colors,
+.frame-parent2 {
+  display: flex;
+  align-items: center;
+}
+.frame-parent2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 0.56rem;
+}
+.colors {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 0.83rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  width: 3.3rem;
+  height: 0.83rem;
+  flex-shrink: 0;
+}
+.frame-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.42rem;
+}
+.div {
+  position: relative;
+  line-height: 1.11rem;
+  font-weight: 500;
+  width: 0.28rem;
+  height: 1.11rem;
+  flex-shrink: 0;
+}
+.div,
+.quantity,
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+.wrapper {
+  align-self: stretch;
+  border-radius: 4.44px;
+  border: 1.1px solid rgba(21, 21, 21, 0.12);
+  box-sizing: border-box;
+  height: 1.67rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0.69rem;
+}
+.quantity {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 0.83rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  width: 19.44rem;
+  height: 0.83rem;
+  flex-shrink: 0;
+}
+.frame-container,
+.frame-div,
+.frame-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  flex: 1;
+  flex-direction: column;
+  gap: 0.42rem;
+  color: var(--color-gray-200);
+}
+.frame-container,
+.frame-div {
+  gap: 1.67rem;
+}
+.frame-div {
+  width: 18.88rem;
+  flex-direction: row;
+  color: var(--color-gray-100);
+}
+.frame-container {
+  flex-direction: column;
+}
+.div1,
+.franky-one-piece,
+.lorem-ipsum-dolor4 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor4 {
+  align-self: stretch;
+  line-height: 1.11rem;
+  font-weight: 500;
+  height: 4.44rem;
+}
+.div1,
+.franky-one-piece {
+  line-height: 2.5rem;
+}
+.div1 {
+  font-weight: 500;
+  width: 18.88rem;
+  height: 2.5rem;
+}
+.franky-one-piece {
+  font-size: 2.22rem;
+  font-family: var(--font-arvo);
+  color: var(--color-darkslategray);
+  width: 20.13rem;
+  height: 5rem;
+}
+.parent {
+  gap: 0.69rem;
+  font-size: 1.94rem;
+  color: var(--color-gray-100);
+}
+.frame-group,
+.lorem-ipsum-dolor-sit-amet-co-parent,
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent {
+  align-self: stretch;
+  gap: 0.83rem;
+  color: var(--color-gray-200);
+}
+.frame-group {
+  flex: 1;
+  padding: 0 5.55rem 0 0;
+  gap: 1.39rem;
+  z-index: 1;
+}
+.image-2-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 2.19rem;
+  left: 8.31rem;
+  width: 22.13rem;
+  height: 22.88rem;
+  object-fit: cover;
+  z-index: 2;
+}
+.push-2-columns {
+  position: absolute;
+  top: 53.56rem;
+  left: 0;
+  width: 90rem;
+  height: 25.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 1.11rem;
+  text-align: left;
+  font-size: 0.69rem;
+  color: var(--color-white);
+}
+.index1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 83.88rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 0.49rem;
+  color: var(--color-gray-200);
+  font-family: var(--font-metropolis);
+}

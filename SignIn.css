@@ -1,0 +1,163 @@
+.sign-in-child {
+  position: absolute;
+  top: 0;
+  left: 54rem;
+  background-color: var(--color-oldlace);
+  width: 36rem;
+  height: 64rem;
+}
+.image-1-icon2 {
+  position: absolute;
+  top: 24.63rem;
+  left: 66.19rem;
+  width: 28.38rem;
+  height: 39.38rem;
+  object-fit: cover;
+}
+.welcome-to1 {
+  margin: 0;
+}
+.senwadaph1 {
+  margin: 0;
+  color: var(--color-darkorange);
+}
+.welcome-to-senwadaph-container1 {
+  position: absolute;
+  top: 12.94rem;
+  left: 59.69rem;
+}
+.sign-in3,
+.username5 {
+  position: relative;
+}
+.username5 {
+  font-weight: 500;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke);
+  width: 28.13rem;
+  height: 3.13rem;
+}
+.ant-designeye-outlined-icon4 {
+  position: absolute;
+  top: 2.88rem;
+  left: 26.13rem;
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  display: none;
+}
+.bagilinkid-username4 {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  font-weight: 500;
+}
+.rectangle-parent2 {
+  position: relative;
+  width: 28.13rem;
+  height: 3.13rem;
+  font-size: var(--font-size-xs);
+}
+.textinput4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ant-designeye-outlined-icon5 {
+  position: absolute;
+  top: 1.06rem;
+  left: 26.13rem;
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+}
+.rectangle-parent3 {
+  position: relative;
+  width: 28.13rem;
+  height: 3.13rem;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+}
+.forgot-password {
+  position: relative;
+  font-weight: 500;
+  color: var(--color-darkorange);
+}
+.sign-in4 {
+  position: relative;
+  font-weight: 600;
+}
+.button1 {
+  border-radius: var(--br-base);
+  background-color: var(--color-sandybrown);
+  width: 28.13rem;
+  height: 3.13rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-182xl);
+  box-sizing: border-box;
+}
+.sign-in-parent,
+.textinput-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.textinput-group {
+  align-items: flex-end;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+}
+.sign-in-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  align-items: flex-start;
+  gap: var(--gap-21xl);
+}
+.frame-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 28.13rem;
+  height: 23.94rem;
+}
+.create-an-account {
+  color: var(--color-darkorange);
+}
+.not-registered-yet-container {
+  position: absolute;
+  top: 26.44rem;
+  left: 5.63rem;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 18.13rem;
+  left: 12.94rem;
+  width: 28.13rem;
+  height: 27.75rem;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.sign-in2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
