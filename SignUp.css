@@ -1,7 +1,7 @@
 .sign-up-child {
   position: absolute;
   top: 0;
-  left: 54rem;
+  left: 80rem;
   background-color: var(--color-oldlace);
   width: 36rem;
   height: 64rem;
@@ -114,7 +114,7 @@
   gap: var(--gap-21xl);
 }
 .welcome-to {
-  margin: 0;
+  margin-bottom: -7%;
 }
 .senwadaph {
   margin: 0;
@@ -122,15 +122,15 @@
 }
 .welcome-to-senwadaph-container {
   position: absolute;
-  top: 13.5rem;
-  left: 59.38rem;
+  top: -5.5rem;
+  left: 69.38rem;
   font-size: var(--font-size-45xl);
   color: var(--color-darkslategray-100);
 }
 .image-1-icon1 {
   position: absolute;
-  top: 25.31rem;
-  left: 63.56rem;
+  top: 5.31rem;
+  left: 73.56rem;
   width: 28.38rem;
   height: 39.38rem;
   object-fit: cover;

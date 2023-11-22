@@ -1,7 +1,7 @@
 .sign-up-child {
   position: absolute;
   top: 0;
-  left: 54rem;
+  left: 80rem;
   background-color: var(--color-oldlace);
   width: 36rem;
   height: 64rem;
@@ -103,15 +103,15 @@
 }
 .welcome-to-senwadaph-container {
   position: absolute;
-  top: 15.06rem;
-  left: 58.19rem;
+  top: 5.06rem;
+  left: 82.19rem;
   font-size: var(--font-size-45xl);
   color: var(--color-darkslategray-100);
 }
 .image-1-icon1 {
   position: absolute;
-  top: 25.44rem;
-  left: 65.69rem;
+  top: 18.31rem;
+  left: 89.56rem;
   width: 28.38rem;
   height: 39.38rem;
   object-fit: cover;

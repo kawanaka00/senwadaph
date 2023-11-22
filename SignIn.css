@@ -1,21 +1,21 @@
 .sign-in-child {
   position: absolute;
   top: 0;
-  left: 54rem;
+  left: 80rem;
   background-color: var(--color-oldlace);
   width: 36rem;
   height: 64rem;
 }
 .image-1-icon2 {
   position: absolute;
-  top: 24.63rem;
-  left: 66.19rem;
+  top: 18.31rem;
+  left: 89.56rem;
   width: 28.38rem;
   height: 39.38rem;
   object-fit: cover;
 }
 .welcome-to1 {
-  margin: 0;
+  margin-bottom: -7%;
 }
 .senwadaph1 {
   margin: 0;
@@ -23,8 +23,10 @@
 }
 .welcome-to-senwadaph-container1 {
   position: absolute;
-  top: 12.94rem;
-  left: 59.69rem;
+  top: 5.5rem;
+  left: 82.38rem;
+  font-size: var(--font-size-45xl);
+  color: var(--color-darkslategray-100);
 }
 .sign-in3,
 .username5 {
